@@ -44,3 +44,16 @@ Neave et al. (2019) は、デジタル・ホーディングについて、単に
 調査方法：オンラインによる質問紙調査法
 調査尺度：DHQ, SCI
 解析方法：未定
+
+引用文献
+Frost, R. O., & Hartl, T. L. (1996). A cognitive-behavioral model of compulsive hoarding. Behaviour Research and Therapy, 34(4), 341–350.
+
+Neave, N., Briggs, P., McKellar, K., & Sillence, E. (2019). Digital hoarding behaviours: Measurement and evaluation. Computers in Human Behavior, 96, 72–77.
+
+Steketee, G., & Frost, R. O. (2007). Compulsive hoarding and acquiring: Therapist guide. Oxford University Press.
+
+Steketee, G., Frost, R. O., & Kyrios, M. (2003). Cognitive aspects of compulsive hoarding. Cognitive Therapy and Research, 27(4), 463–479.
+
+Sweeten, G., Sillence, E., & Neave, N. (2018). Digital hoarding behaviours: Underlying motivations and potential negative consequences. Computers in Human Behavior, 85, 54–60.
+
+Vitale, F., Janzen, I., & McGrenere, J. (2018). Hoarding and minimalism: Tendencies in digital data preservation. Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems, Paper 587, 1–12.
