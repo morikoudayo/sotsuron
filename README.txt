@@ -50,7 +50,7 @@ Frost, R. O., & Hartl, T. L. (1996). A cognitive-behavioral model of compulsive 
 
 Neave, N., Briggs, P., McKellar, K., & Sillence, E. (2019). Digital hoarding behaviours: Measurement and evaluation. Computers in Human Behavior, 96, 72–77.
 
-Steketee, G., & Frost, R. O. (2007). Compulsive hoarding and acquiring: Therapist guide. Oxford University Press.
+Steketee, G., & Frost, R. O. (2007). Compulsive hoarding and acquiring: Therapist guide. Oxford University Press. (スティケティー, G., & フロスト, R. O. 五十嵐透子(訳) (2013). ホーディングへの適切な理解と対応 認知行動療法的アプローチ : セラピストガイド 金子書房)
 
 Steketee, G., Frost, R. O., & Kyrios, M. (2003). Cognitive aspects of compulsive hoarding. Cognitive Therapy and Research, 27(4), 463–479.
 
