@@ -57,22 +57,22 @@ State-Trait Anxiety Inventory日本語版（大学生用；清水・今栄, 1981
 
 ## 引用文献
 
-Beck, A. T., Epstein, N., Brown, G., & Steer, R. A. (1988). An inventory for measuring clinical anxiety: Psychometric properties. *Journal of Consulting and Clinical Psychology*, *56*(6), 893-897.
+Beck, A. T., Epstein, N., Brown, G., & Steer, R. A. (1988). An inventory for measuring clinical anxiety: Psychometric properties. Journal of Consulting and Clinical Psychology, 56(6), 893-897.
 
-Demirci, K., Akgönül, M., & Akpinar, A. (2015). Relationship of smartphone use severity with sleep quality, depression, and anxiety in university students. *Journal of Behavioral Addictions*, *4*(2), 85-92.
+Demirci, K., Akgönül, M., & Akpinar, A. (2015). Relationship of smartphone use severity with sleep quality, depression, and anxiety in university students. Journal of Behavioral Addictions, 4(2), 85-92.
 
-Jo, H., & Baek, E.-M. (2023). Exploring the dynamics of mobile app addiction: The interplay of communication, affective factors, flow, perceived enjoyment, and habit. *BMC Psychology*, *11*, 404.
+Jo, H., & Baek, E.-M. (2023). Exploring the dynamics of mobile app addiction: The interplay of communication, affective factors, flow, perceived enjoyment, and habit. BMC Psychology, 11, 404.
 
-Lally, P., van Jaarsveld, C. H. M., Potts, H. W. W., & Wardle, J. (2010). How are habits formed: Modelling habit formation in the real world. *European Journal of Social Psychology*, *40*(6), 998-1009.
+Lally, P., van Jaarsveld, C. H. M., Potts, H. W. W., & Wardle, J. (2010). How are habits formed: Modelling habit formation in the real world. European Journal of Social Psychology, 40(6), 998-1009.
 
-沖田純奈・近藤浩子 (2022). 医療系大学生のスマートフォン依存と対人ストレスに関する研究 *北関東医学*, *72*(1), 71-78.
+沖田純奈・近藤浩子 (2022). 医療系大学生のスマートフォン依存と対人ストレスに関する研究 北関東医学, 72(1), 71-78.
 
-清水秀美・今栄国晴 (1981). State-Trait Anxiety Inventoryの日本語版（大学生用）の作成 *教育心理学研究*, *29*(4), 348-353.
+清水秀美・今栄国晴 (1981). State-Trait Anxiety Inventoryの日本語版（大学生用）の作成 教育心理学研究, 29(4), 348-353.
 
-鈴木伸一・嶋田洋徳・三浦正江・片柳弘司・右馬埜力也・坂野雄二 (1997). 新しい心理的ストレス反応尺度（SRS-18）の開発と信頼性・妥当性の検討 *行動医学研究*, *4*(1), 22-29.
+鈴木伸一・嶋田洋徳・三浦正江・片柳弘司・右馬埜力也・坂野雄二 (1997). 新しい心理的ストレス反応尺度（SRS-18）の開発と信頼性・妥当性の検討 行動医学研究, 4(1), 22-29.
 
-高見和至 (2023). 日本語版自己報告式習慣指標（SRHI-J）の開発 *神戸大学大学院人間発達環境学研究科研究紀要*, *16*(2), 29-39.
+高見和至 (2023). 日本語版自己報告式習慣指標（SRHI-J）の開発 神戸大学大学院人間発達環境学研究科研究紀要, 16(2), 29-39.
 
-館農勝 (2019). インターネット依存の新しいかたち—スマートフォン依存（スマホ依存）— *精神神経学雑誌*, *121*(7), 549-555.
+館農勝 (2019). インターネット依存の新しいかたち—スマートフォン依存（スマホ依存）— 精神神経学雑誌, 121(7), 549-555.
 
-Verplanken, B., & Orbell, S. (2003). Reflections on past behavior: A self-report index of habit strength. *Journal of Applied Social Psychology*, *33*(6), 1313-1330.
+Verplanken, B., & Orbell, S. (2003). Reflections on past behavior: A self-report index of habit strength. Journal of Applied Social Psychology, 33(6), 1313-1330.
